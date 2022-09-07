@@ -1,0 +1,6 @@
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\obj\Debug\RealTimeStatistics.csproj.AssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\obj\Debug\RealTimeStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\bin\Debug\RealTimeStatistics.dll
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\bin\Debug\RealTimeStatistics.pdb
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\obj\Debug\RealTimeStatistics.dll
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\obj\Debug\RealTimeStatistics.pdb

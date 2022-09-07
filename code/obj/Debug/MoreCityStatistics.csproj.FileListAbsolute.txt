@@ -1,0 +1,12 @@
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\Source\obj\Debug\MoreCityStatistics.csproj.AssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\Source\obj\Debug\MoreCityStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\Source\bin\Debug\MoreCityStatistics.dll
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\Source\bin\Debug\MoreCityStatistics.pdb
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\Source\obj\Debug\MoreCityStatistics.dll
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\Source\obj\Debug\MoreCityStatistics.pdb
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\bin\Debug\MoreCityStatistics.dll
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\bin\Debug\MoreCityStatistics.pdb
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\obj\Debug\MoreCityStatistics.csproj.AssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\obj\Debug\MoreCityStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\obj\Debug\MoreCityStatistics.dll
+C:\Users\Usuario\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RuzbehCityStatistics\code\obj\Debug\MoreCityStatistics.pdb
